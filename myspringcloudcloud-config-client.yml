@@ -15,7 +15,7 @@ eureka:
 spring:
   profiles: test
   application:
-    name: microservicecloud-config-client2
+    name: microservicecloud-config-client3
 eureka:
   client:
     service-url:
